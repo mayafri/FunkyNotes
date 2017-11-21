@@ -1,5 +1,7 @@
 # FunkyNotes
 
+![](https://raw.githubusercontent.com/hyakosm/funkynotes/master/screenshot.png)
+
 Une petite application Web qui permet de charger et enregistrer des notes
 de texte facilement.
 
